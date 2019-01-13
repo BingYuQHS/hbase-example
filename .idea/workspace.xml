@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f021781-518f-403b-af0a-de4cc684d7e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hbase-api-demo01/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hbase-api-demo01/src/main/java/com/flamingo/bigdata/hbase/api/HbaseConn.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hbase-api-demo01/src/test/java/HbaseConnTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hbase-api-demo01/target/classes/com/flamingo/bigdata/hbase/api/HbaseConn.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hbase-api-demo01/target/test-classes/HbaseConnTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hbase-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hbase-api-demo01/src/main/java/com/flamingo/bigdata/hbase/api/HbaseConn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding>
                 <element signature="e#1221#1222#0" expanded="true" />
                 <element signature="e#1268#1269#0" expanded="true" />
@@ -51,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hbase-api-demo01/src/test/java/HbaseConnTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
@@ -80,8 +74,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/hbase-api-demo01/pom.xml" />
-        <option value="$PROJECT_DIR$/hbase-api-demo01/src/main/java/com/flamingo/bigdata/hbase/api/HbaseConn.java" />
         <option value="$PROJECT_DIR$/hbase-api-demo01/src/test/java/HbaseConnTest.java" />
+        <option value="$PROJECT_DIR$/hbase-api-demo01/src/main/java/com/flamingo/bigdata/hbase/api/HbaseConn.java" />
       </list>
     </option>
   </component>
@@ -180,6 +174,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hbase-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hbase-example" type="462c0819:PsiDirectoryNode" />
+              <item name="hbase-api-demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -191,7 +193,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547390055960" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547390374704" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -249,8 +251,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547385261724</updated>
-      <workItem from="1547385265879" duration="3926000" />
+      <workItem from="1547385265879" duration="4242000" />
     </task>
+    <task id="LOCAL-00001" summary="hbase-example项目初始化">
+      <created>1547390298121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547390298122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -262,7 +272,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3926000" />
+    <option name="totallyTimeSpent" value="4242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -340,6 +350,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hbase-example项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="hbase-example项目初始化" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -355,23 +369,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hbase-api-demo01/src/main/java/com/flamingo/bigdata/hbase/api/HbaseConn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1268#1269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hbase-api-demo01/src/test/java/HbaseConnTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase-api-demo01/src/main/java/com/flamingo/bigdata/hbase/api/HbaseConn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#1221#1222#0" expanded="true" />
+            <element signature="e#1268#1269#0" expanded="true" />
           </folding>
         </state>
       </provider>
